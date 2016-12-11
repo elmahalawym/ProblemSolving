@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475467635 source:c:\users\elmah\onedrive\documents\problemsolving\codeforces_166_div2_a_beautifulyear\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<stdio.h>
+

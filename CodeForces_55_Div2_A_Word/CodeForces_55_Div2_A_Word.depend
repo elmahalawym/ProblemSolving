@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475515965 source:c:\users\elmah\onedrive\documents\problemsolving\codeforces_55_div2_a_word\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<stdio.h>
+
